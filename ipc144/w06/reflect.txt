@@ -1,0 +1,24 @@
+﻿*****************************************************************************
+                          Workshop - #6 (P2)
+Full Name  : Smitkumar Kalpeshkumar Patel
+Student ID#: 157308214
+Email      : spatel556@myseneca.ca
+Section    : NCC
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+1. In this studio I have utilized int artrays fpr[10] and f option[10].
+These two clusters are connected with one another and are joined in a table
+to print the needs and choices as required.
+2. The straightforward response is because of clusters utilize 0 based ordering which is a standard term.
+It is likewise convoluting to be in 1 based ordering as clusters will transform it back to
+© base.
+- in this studio I have utilized cost[10], fpr[10] and f _option[10] under
+for (I = 0; I < wish things; i++) as trading 10 to I for circling.
+3. A cluster can be a set or pack of values which are known to be components. Nonetheless,
+those components are connected with one another consistently. Then again, we can
+access
+a component through a file of positive numbers which are alloted to every single
+component of a cluster which is a fundamental rule of C. Through this file we can call the specific worth as required.

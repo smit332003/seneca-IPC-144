@@ -1,0 +1,44 @@
+﻿/*
+***********************************************************
+                          Workshop - #7 (Reflection)
+Full Name  : Smitkumar Kalpeshkumar Patel
+Student ID : 157308214
+Email      : spatel556@myseneca.ca
+Section    : NCC
+
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+************************************************************
+*/
+
+
+Q1) Describe the benefits and advantages of using user-defined types (structures) in this workshop. You must explain your answer using an example from this workshop.
+
+
+Ans: With the use of Structs, variables with various data-types can be stored in a single "mega-variable" which is very convenient when compared with arrays.
+         For example:- 
+        struct GameInfo
+{
+   int N_moves;
+   int N_positions;
+   int bombs[maxpathlength];
+   int treasure[maxpathlength];
+};
+
+
+        can be used instead of using multiple arrays which saves .
+
+
+Q2) If we enhanced this workshop to keep a history of games played including the endgame results, briefly describe what two major logical changes you would have to make to your program to make this possible?
+
+
+Ans: it is possible just by adding int variables for saving previous game sessions and some other variables like char for players symbole. These two changes can make it possible. 
+
+
+Q3) What part of this workshop did you spend the most time working on? What did you do to overcome your difficulties?
+
+
+Ans: in this part 2 workshop 7 i spent most time while putting input of bombs and treasures, i got so many errors in output but somehow i manage to get it done. Secondly in displaying players progress i found some minor errors.
